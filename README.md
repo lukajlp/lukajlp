@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hello, I'm João Lucas!</h1>
 
-I'm an Archaeologist, currently a undergraduate student in Computer Science. Studying Front End and Computer Vision.
+I'm an Archaeologist, currently a undergraduate student in Computer Science. Studying Front-End and Computer Vision.
   
   <div align="center"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
