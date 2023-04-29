@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Hello, I'm João Lucas! 📚</h3>
+  <h1>Hello, I'm João Lucas!</h1>
 
 I'm an Archaeologist, currently a undergraduate student in Computer Science. Studying Front End and Computer Vision.
   
